@@ -27,3 +27,21 @@
   1. TBA
 
 ### Note
+
+## 2024-09-05
+
+### Assignment & done
+
+- English
+  1. ...
+
+- Math
+  1. _**cambridge-senior-mathematics-vce-general-mathematics-vce-units-1-amp-2**_
+     > P15-P20
+
+  2. ...
+
+- Chinese
+  1. ...
+
+### Note

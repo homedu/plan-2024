@@ -20,3 +20,18 @@
 ### Note
 
 生字： _**段**_，_**摩**_
+
+## 2024-09-05
+
+### Assignment & done
+
+- English
+  1. ...
+
+- Math
+  1. ...
+
+- Chinese
+  1. ...
+
+### Note

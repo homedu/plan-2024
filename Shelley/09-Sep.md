@@ -20,3 +20,18 @@ New words:
 序数词写法：
 
 **1st**, **2nd**, **11th**, **12th**, **21st**, **22nd** etc.
+
+## 2024-09-05
+
+### Assignment & done
+
+- English
+  1. ...
+
+- Math
+  1. ...
+
+- Chinese
+  1. ...
+
+### Note
