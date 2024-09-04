@@ -4,17 +4,18 @@
 
 - English
   1. 180 Days of Language (6)
-     > D1 - D8
+     > D1 - D8 ✔
   2. 180 Days of Reading (6)
-     > W1.D2 - W2.D2
+     > W1.D2 - W2.D2 ✔
+
 - Math
   1. _**周计划.小学数学应用题强化训练.4年级**_
-     > P87
-  2. work 2
+     > P87 ✔
+  2. TBA
 
-### Incorrect
-
-### Explain
+- Chinese
+  1. _**VCE中文-小学版-第五册**_
+     > 阅读 特别的演出 ✔
 
 ### Note
 

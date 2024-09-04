@@ -20,6 +20,6 @@
      顺时针滚动与逆时针滚动都要考虑，答案不唯一
 
 - Chinese
-  1. reading
+  1. TBA
 
 ### Note
