@@ -3,9 +3,9 @@
 ### Assignment & done
 
 - English
-  1. 180 Days of Language (6)
+  1. _**180 Days of Language (6)**_
      > D1 - D8 ✔
-  2. 180 Days of Reading (6)
+  2. _**180 Days of Reading (6)**_
      > W1.D2 - W2.D2 ✔
 
 - Math
@@ -15,7 +15,7 @@
 
 - Chinese
   1. _**VCE中文-小学版-第五册**_
-     > 阅读 特别的演出 ✔
+     > 阅读 《特别的演出》 ✔
 
 ### Note
 

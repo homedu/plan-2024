@@ -3,17 +3,20 @@
 ### Assignment & done
 
 - English
-  1. 180 Days of Language (1)
-     > D1 - D8
-  2. 180 Days of Reading (1)
-     > W1D2 - W2D2
+  1. _**180 Days of Language (1)**_
+     > D1 - D4 ✔
+  2. _**180 Days of Reading (1)**_
+     > ...
 - Math
-  1. _****_
-
-  2. work 2
-
-### Incorrect
-
-### Explain
+  1. _**180 Days of Math (1)**_
+     > D1 - D4 ✔
 
 ### Note
+
+New words:
+
+- **September**
+
+序数词写法：
+
+**1st**, **2nd**, **11th**, **12th**, **21st**, **22nd** etc.
