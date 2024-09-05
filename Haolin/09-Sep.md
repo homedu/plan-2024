@@ -38,6 +38,8 @@
      > D9 - D12 ...
   2. _**180 Days of Reading (6)**_
      > W1.D5, W2.D3 - W2.D4 ...
+  3. _**English For Everyone Practice Book**_
+     > P8 - P10 ... (ref _**English For Everyone Grammar Guide**_)
 
 - Math
   1. _**周计划.小学数学应用题强化训练.4年级**_
