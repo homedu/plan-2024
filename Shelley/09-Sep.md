@@ -1,6 +1,8 @@
+# 2024-09
+
 ## 2024-09-04
 
-### Assignment & done
+### Assignment & done - 04
 
 - English
   1. _**180 Days of Language (1)**_
@@ -11,7 +13,7 @@
   1. _**180 Days of Math (1)**_
      > D1 - D4 ✔
 
-### Note
+### Note - 04
 
 New words:
 
@@ -25,7 +27,7 @@ New words:
 
 ## 2024-09-05
 
-### Assignment & done
+### Assignment & done - 05
 
 - English
   1. _**180 Days of Language (1)**_
@@ -33,7 +35,7 @@ New words:
   2. _**180 Days of Reading (1)**_
      > W1.D1 - W1.D2 ...
   3. _**School Library Book Reading**_
-     > ...
+     > 《grumpy Rella》 ✔
 
 - Math
   1. _**乐学熊.找规律.从入门到精通**_
@@ -46,7 +48,14 @@ New words:
 - Chinese
   1. ...
 
-### Note
+### Note - 05
+
+- New words:
+  - **daughter**
+  - **grumpy**
+  - **grouchy**
+  - **growl**
+  - **grunt**
 
 - 周末教学
   1. **加法凑十法**
