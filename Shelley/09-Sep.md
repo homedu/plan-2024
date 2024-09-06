@@ -58,10 +58,10 @@ New words:
 
 - New words:
   - **daughter**
-  - **grumpy**
-  - **grouchy**
-  - **growl**
-  - **grunt**
+  - grumpy
+  - grouchy
+  - growl
+  - grunt
   - **care**
 
 - 周末教学
@@ -75,10 +75,10 @@ New words:
 
 - English
   1. _**180 Days of Language (1)**_
-     > D5 - D6 ...
+     > D5 - D6 ✔
 
   2. _**180 Days of Reading (1)**_
-     > W1.D1 - W1.D2 ...
+     > W1.D1 - W1.D3 ✔
 
   3. _**School Library Book Reading**_
      > ...
@@ -91,3 +91,9 @@ New words:
      > D7-D8 ...
 
 ### Note - 06
+
+- New words:
+  - **helpful**
+  - **stone**
+  - **froze**
+
