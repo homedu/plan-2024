@@ -99,3 +99,36 @@ New words:
 
 - 周末教学
   1. **认表**
+
+  =====================================================================================
+
+## 2024-09-07 Saturday
+
+### Assignment & done - 07
+
+- English
+  1. _**180 Days of Language (1)**_
+     > ...
+
+  2. _**180 Days of Reading (1)**_
+     > ...
+
+  3. _**School Library Book Reading**_
+     > ...
+
+- Math
+  1. _**乐学熊.找规律.从入门到精通**_
+     > P5 ...
+
+  2. _**180 Days of Math (1)**_
+     > ...
+
+### Note - 07
+
+- New words:
+  - **helpful**
+  - **stone**
+  - **froze**
+
+- 周末教学
+  1. **认表**
