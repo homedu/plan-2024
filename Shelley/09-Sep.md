@@ -126,9 +126,3 @@ New words:
 ### Note - 07
 
 - New words:
-  - **helpful**
-  - **stone**
-  - **froze**
-
-- 周末教学
-  1. **认表**
