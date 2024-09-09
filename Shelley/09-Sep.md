@@ -126,3 +126,30 @@ New words:
 ### Note - 07
 
 - New words:
+
+  =====================================================================================
+
+## 2024-09-09 Monday
+
+### Assignment & done - 09
+
+- English
+  1. _**180 Days of Language (1)**_
+     > ...
+
+  2. _**180 Days of Reading (1)**_
+     > ...
+
+  3. _**School Library Book Reading**_
+     > ...
+
+- Math
+  1. _**乐学熊.找规律.从入门到精通**_
+     > ...
+
+  2. _**180 Days of Math (1)**_
+     > ...
+
+### Note - 09
+
+- New words:
